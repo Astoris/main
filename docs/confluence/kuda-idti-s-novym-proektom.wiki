@@ -12,13 +12,15 @@ h1. Куда идти с новым проектом — Центр компет
 
 h2. Быстрый выбор: мой запрос — это...
 
-||Если вам нужно...||Идите к команде||Координатор||
-|Согласовать или спроектировать архитектуру решения|Архитектура|[Кирилл Худин|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744]|
-|Помощь в системном анализе, ревью требований, ИПР, собеседования|Системный анализ|[Егор Кочнев|https://sberworks.ru/wiki/pages/viewpage.action?pageId=864053489]|
-|Запустить / вести проект, неясна маршрутизация|Проектное направление|[Татьяна Нековаль|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1209704584]|
-|Вопросы по производственному процессу, PDLC, delivery|Производственный процесс|[Дарья Борисова|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259]|
-|Gen AI: модели, пайплайны, AI-решения|Gen AI|[Александр Мазур|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259]|
-|AI PDLC: жизненный цикл AI-продуктов|AI PDLC|[Андрей Назаркин|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1229893035]|
+|| Если вам нужно... || Идите к команде || Координатор ||
+| Согласовать или спроектировать архитектуру решения | Архитектура | Кирилл Худин |
+| Помощь в системном анализе, ревью требований, ИПР, собеседования | Системный анализ | Егор Кочнев |
+| Запустить / вести проект, неясна маршрутизация | Проектное направление | Татьяна Нековаль |
+| Вопросы по производственному процессу, PDLC, delivery | Производственный процесс | Дарья Борисова |
+| Gen AI: модели, пайплайны, AI-решения | Gen AI | Александр Мазур |
+| AI PDLC: жизненный цикл AI-продуктов | AI PDLC | Андрей Назаркин |
+
+*Профили координаторов:* [Кирилл Худин|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744] · [Егор Кочнев|https://sberworks.ru/wiki/pages/viewpage.action?pageId=864053489] · [Татьяна Нековаль|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1209704584] · [Дарья Борисова|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259] · [Александр Мазур|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259] · [Андрей Назаркин|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1229893035]
 
 ----
 
@@ -26,13 +28,15 @@ h2. Кластер: Технологии AI
 
 [Страница кластера|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744]
 
-||Команда||Координатор||Статус||Страница||Jira||
-|Архитектура|Кирилл Худин|(/) Подтверждён|[Открыть|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744]|{{CC_AI_ARCH_JIRA}}|
-|Системный анализ|Егор Кочнев|(/) Подтверждён|[Открыть|https://sberworks.ru/wiki/pages/viewpage.action?pageId=864053489]|{{CC_AI_SA_JIRA}}|
-|Проектное направление|Татьяна Нековаль|(/) Подтверждён|[Открыть|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1209704584]|{{CC_AI_PM_JIRA}}|
-|Производственный процесс|Дарья Борисова|(/) Подтверждён|[Открыть|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259]|{{CC_AI_PP_JIRA}}|
-|Gen AI|Александр Мазур|(/) Подтверждён|[Открыть|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259]|{{CC_AI_GENAI_JIRA}}|
-|AI PDLC|Андрей Назаркин, Кирилл Сухоносенко (?)|(!) Уточняется|[Открыть|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1229893035]|{{CC_AI_PDLC_JIRA}}|
+|| Команда || Координатор || Статус || Страница || Jira ||
+| Архитектура | Кирилл Худин | (/) Подтверждён | Открыть | {{CC_AI_ARCH_JIRA}} |
+| Системный анализ | Егор Кочнев | (/) Подтверждён | Открыть | {{CC_AI_SA_JIRA}} |
+| Проектное направление | Татьяна Нековаль | (/) Подтверждён | Открыть | {{CC_AI_PM_JIRA}} |
+| Производственный процесс | Дарья Борисова | (/) Подтверждён | Открыть | {{CC_AI_PP_JIRA}} |
+| Gen AI | Александр Мазур | (/) Подтверждён | Открыть | {{CC_AI_GENAI_JIRA}} |
+| AI PDLC | Андрей Назаркин, Кирилл Сухоносенко (?) | (!) Уточняется | Открыть | {{CC_AI_PDLC_JIRA}} |
+
+*Страницы команд:* [Архитектура|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744] · [Системный анализ|https://sberworks.ru/wiki/pages/viewpage.action?pageId=864053489] · [Проектное направление|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1209704584] · [Производственный процесс|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259] · [Gen AI|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259] · [AI PDLC|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1229893035]
 
 ----
 

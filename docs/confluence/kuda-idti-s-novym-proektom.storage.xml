@@ -1,0 +1,106 @@
+<h1>Куда идти с новым проектом — Центр компетенций</h1>
+
+<ac:structured-macro ac:name="info" ac:schema-version="1">
+<ac:parameter ac:name="title">Для кого эта страница</ac:parameter>
+<ac:rich-text-body><p>Вы — новый сотрудник или запускаете новый проект в кластере <strong>Технологии AI</strong> и не знаете, к кому обратиться. Эта страница поможет выбрать правильную команду и координатора.</p></ac:rich-text-body>
+</ac:structured-macro>
+
+<ac:structured-macro ac:name="tip" ac:schema-version="1">
+<ac:parameter ac:name="title">Не уверены, куда идти?</ac:parameter>
+<ac:rich-text-body><p>Начните с <strong>Проектного направления</strong> (Татьяна Нековаль) — помогут с маршрутизацией. По архитектуре и процессам — см. таблицу ниже.</p></ac:rich-text-body>
+</ac:structured-macro>
+
+<hr/>
+
+<h2>Быстрый выбор: мой запрос — это...</h2>
+
+<table class="wrapped"><tbody><tr><th>Если вам нужно...</th><th>Идите к команде</th><th>Координатор</th></tr><tr><td>Согласовать или спроектировать архитектуру решения</td><td>Архитектура</td><td><a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744">Кирилл Худин</a></td></tr><tr><td>Помощь в системном анализе, ревью требований, ИПР, собеседования</td><td>Системный анализ</td><td><a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=864053489">Егор Кочнев</a></td></tr><tr><td>Запустить / вести проект, неясна маршрутизация</td><td>Проектное направление</td><td><a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=1209704584">Татьяна Нековаль</a></td></tr><tr><td>Вопросы по производственному процессу, PDLC, delivery</td><td>Производственный процесс</td><td><a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259">Дарья Борисова</a></td></tr><tr><td>Gen AI: модели, пайплайны, AI-решения</td><td>Gen AI</td><td><a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259">Александр Мазур</a></td></tr><tr><td>AI PDLC: жизненный цикл AI-продуктов</td><td>AI PDLC</td><td><a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=1229893035">Андрей Назаркин</a></td></tr></tbody></table>
+
+<hr/>
+
+<h2>Кластер: Технологии AI</h2>
+
+<p><a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744">Страница кластера</a></p>
+
+<table class="wrapped"><tbody><tr><th>Команда</th><th>Координатор</th><th>Статус</th><th>Страница</th><th>Jira</th></tr><tr><td>Архитектура</td><td>Кирилл Худин</td><td>✅ Подтверждён</td><td><a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744">Открыть</a></td><td><code>CC_AI_ARCH_JIRA</code></td></tr><tr><td>Системный анализ</td><td>Егор Кочнев</td><td>✅ Подтверждён</td><td><a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=864053489">Открыть</a></td><td><code>CC_AI_SA_JIRA</code></td></tr><tr><td>Проектное направление</td><td>Татьяна Нековаль</td><td>✅ Подтверждён</td><td><a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=1209704584">Открыть</a></td><td><code>CC_AI_PM_JIRA</code></td></tr><tr><td>Производственный процесс</td><td>Дарья Борисова</td><td>✅ Подтверждён</td><td><a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259">Открыть</a></td><td><code>CC_AI_PP_JIRA</code></td></tr><tr><td>Gen AI</td><td>Александр Мазур</td><td>✅ Подтверждён</td><td><a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259">Открыть</a></td><td><code>CC_AI_GENAI_JIRA</code></td></tr><tr><td>AI PDLC</td><td>Андрей Назаркин, Кирилл Сухоносенко (?)</td><td>⚠️ Уточняется</td><td><a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=1229893035">Открыть</a></td><td><code>CC_AI_PDLC_JIRA</code></td></tr></tbody></table>
+
+<hr/>
+
+<h2>Пошагово: как обратиться с новым проектом</h2>
+
+<ol>
+<li>Определите тип запроса — таблица «Быстрый выбор» выше</li>
+<li>Откройте <strong>страницу команды</strong> — ознакомьтесь с зоной ответственности</li>
+<li>Создайте задачу в <strong>Jira</strong> (ссылка в таблице) или напишите координатору</li>
+<li>Если запрос комплексный — начните с <strong>Проектного направления</strong>, они помогут подключить нужные команды</li>
+</ol>
+
+<ac:structured-macro ac:name="panel" ac:schema-version="1">
+<ac:parameter ac:name="title">Важно</ac:parameter>
+<ac:parameter ac:name="borderColor">#0052CC</ac:parameter>
+<ac:rich-text-body><p>Ссылки Jira помечены плейсхолдерами <code>CC_AI_ARCH_JIRA</code> и аналогичными — замените на реальные URL проектов в Jira после согласования с координаторами.</p></ac:rich-text-body>
+</ac:structured-macro>
+
+<hr/>
+
+<h2>Когда обращаться в каждую команду</h2>
+
+<ac:structured-macro ac:name="expand" ac:schema-version="1">
+<ac:parameter ac:name="title">Архитектура — Кирилл Худин</ac:parameter>
+<ac:rich-text-body><p><em>Координатор:</em> <a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744">Кирилл Худин</a></p><p><em>Ссылки:</em> <a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744">Страница команды</a> · Jira: <code>CC_AI_ARCH_JIRA</code></p><p><em>Шаблон задачи:</em> <code>CC_AI_ARCH_TEMPLATE</code></p><p><em>Обращайтесь, если нужно:</em></p><ul><li>Согласование архитектурного решения</li><li>Консультации по формированию архитектурного решения</li><li>Разрешение развилок при проектировании архитектурных решений</li><li>Консультации по работе / решениям Архитектурной группы и Архитектурного совета</li><li>Консультации по архитектурному процессу и его изменениям</li></ul></ac:rich-text-body>
+</ac:structured-macro>
+
+<ac:structured-macro ac:name="expand" ac:schema-version="1">
+<ac:parameter ac:name="title">Системный анализ — Егор Кочнев</ac:parameter>
+<ac:rich-text-body><p><em>Координатор:</em> <a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=864053489">Егор Кочнев</a></p><p><em>Ссылки:</em> <a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=864053489">Страница команды</a> · Jira: <code>CC_AI_SA_JIRA</code></p><p><em>Шаблон задачи:</em> <code>CC_AI_SA_TEMPLATE</code></p><p><em>Обращайтесь, если нужно:</em></p><ul>
+<li><strong>Проведение собеседований</strong> — техническое интервью, оценка кандидатов, обратная связь нанимающему менеджеру</li>
+<li><strong>Ориентация новичков</strong> — освоение производственного процесса, знакомство с сообществом системных аналитиков</li>
+<li><strong>Развитие карьеры (ИПР)</strong> — оценка навыков, рекомендации по росту, контроль прогресса</li>
+<li><strong>Помощь в системном анализе:</strong>
+<ul>
+<li>помочь решить задачу</li>
+<li>ревью решения и оформления документации</li>
+<li>подключение эксперта с примерами решения сценария</li>
+<li>лучшие практики, выбор инструментов проектирования и документирования</li>
+</ul></li></ul></ac:rich-text-body>
+</ac:structured-macro>
+
+<ac:structured-macro ac:name="expand" ac:schema-version="1">
+<ac:parameter ac:name="title">Проектное направление — Татьяна Нековаль</ac:parameter>
+<ac:rich-text-body><p><em>Координатор:</em> <a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=1209704584">Татьяна Нековаль</a></p><p><em>Ссылки:</em> <a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=1209704584">Страница команды</a> · Jira: <code>CC_AI_PM_JIRA</code></p><p><em>Шаблон задачи:</em> <code>CC_AI_PM_TEMPLATE</code></p><p><em>Зона ответственности уточняется на встрече с координатором.</em></p></ac:rich-text-body>
+</ac:structured-macro>
+
+<ac:structured-macro ac:name="expand" ac:schema-version="1">
+<ac:parameter ac:name="title">Производственный процесс — Дарья Борисова</ac:parameter>
+<ac:rich-text-body><p><em>Координатор:</em> <a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259">Дарья Борисова</a></p><p><em>Ссылки:</em> <a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259">Страница команды</a> · Jira: <code>CC_AI_PP_JIRA</code></p><p><em>Шаблон задачи:</em> <code>CC_AI_PP_TEMPLATE</code></p><p><em>Зона ответственности уточняется на встрече с координатором.</em></p></ac:rich-text-body>
+</ac:structured-macro>
+
+<ac:structured-macro ac:name="expand" ac:schema-version="1">
+<ac:parameter ac:name="title">Gen AI — Александр Мазур</ac:parameter>
+<ac:rich-text-body><p><em>Координатор:</em> <a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259">Александр Мазур</a></p><p><em>Ссылки:</em> <a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259">Страница команды</a> · Jira: <code>CC_AI_GENAI_JIRA</code></p><p><em>Шаблон задачи:</em> <code>CC_AI_GENAI_TEMPLATE</code></p><p><em>Зона ответственности уточняется на встрече с координатором.</em></p></ac:rich-text-body>
+</ac:structured-macro>
+
+<ac:structured-macro ac:name="expand" ac:schema-version="1">
+<ac:parameter ac:name="title">AI PDLC — Андрей Назаркин, Кирилл Сухоносенко (?)</ac:parameter>
+<ac:rich-text-body><p><em>Координаторы:</em> <a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=1229893035">Андрей Назаркин</a>, Кирилл Сухоносенко <em>(требует уточнения)</em></p><p><em>Ссылки:</em> <a href="https://sberworks.ru/wiki/pages/viewpage.action?pageId=1229893035">Страница команды</a> · Jira: <code>CC_AI_PDLC_JIRA</code></p><p><em>Шаблон задачи:</em> <code>CC_AI_PDLC_TEMPLATE</code></p><p><em>Зона ответственности уточняется на встрече с координатором.</em></p></ac:rich-text-body>
+</ac:structured-macro>
+
+<hr/>
+
+<h2>Другие кластеры</h2>
+
+<ac:structured-macro ac:name="panel" ac:schema-version="1">
+<ac:parameter ac:name="bgColor">#F2F4F7</ac:parameter>
+<ac:rich-text-body><p>Кластер «<code>CLUSTER_NAME</code>» — данные будут добавлены после встреч с координаторами.</p></ac:rich-text-body>
+</ac:structured-macro>
+
+<hr/>
+
+<ac:structured-macro ac:name="expand" ac:schema-version="1">
+<ac:parameter ac:name="title">Для владельцев страницы — задачи по наполнению</ac:parameter>
+<ac:rich-text-body><p><ac:structured-macro ac:name="status" ac:schema-version="1"><ac:parameter ac:name="colour">Green</ac:parameter><ac:parameter ac:name="title">Готово</ac:parameter><ac:parameter ac:name="subtle">false</ac:parameter></ac:structured-macro> Собрать шаблон страницы в Confluence на основе данных кластера «Технологии AI»</p><p><ac:structured-macro ac:name="status" ac:schema-version="1"><ac:parameter ac:name="colour">Yellow</ac:parameter><ac:parameter ac:name="title">В работе</ac:parameter><ac:parameter ac:name="subtle">false</ac:parameter></ac:structured-macro> Встретиться со всеми координаторами: разобрать формат постановки задачи в их направление</p><p><ac:structured-macro ac:name="status" ac:schema-version="1"><ac:parameter ac:name="colour">Yellow</ac:parameter><ac:parameter ac:name="title">В работе</ac:parameter><ac:parameter ac:name="subtle">false</ac:parameter></ac:structured-macro> Уточнить координаторов AI PDLC (Кирилл Сухоносенко ?) и заполнить остальные кластеры</p><p><ac:structured-macro ac:name="status" ac:schema-version="1"><ac:parameter ac:name="colour">Yellow</ac:parameter><ac:parameter ac:name="title">В работе</ac:parameter><ac:parameter ac:name="subtle">false</ac:parameter></ac:structured-macro> Заменить плейсхолдеры Jira и шаблонов на актуальные значения</p></ac:rich-text-body>
+</ac:structured-macro>
+
+<hr/>
+
+<p><em>Центр компетенций · Кластер Технологии AI · АО «ЦПЛ» (СберСпасибо)</em></p>

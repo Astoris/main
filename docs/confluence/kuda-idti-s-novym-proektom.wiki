@@ -1,36 +1,38 @@
+h1. Куда идти с новым проектом — Центр компетенций
+
 {info:title=Для кого эта страница}
 Вы — новый сотрудник или запускаете новый проект в кластере *Технологии AI* и не знаете, к кому обратиться. Эта страница поможет выбрать правильную команду и координатора.
 {info}
 
-{note:title=Не уверены, куда идти?}
+{tip:title=Не уверены, куда идти?}
 Начните с *Проектного направления* (Татьяна Нековаль) — помогут с маршрутизацией. По архитектуре и процессам — см. таблицу ниже.
-{note}
+{tip}
 
 ----
 
 h2. Быстрый выбор: мой запрос — это...
 
 ||Если вам нужно...||Идите к команде||Координатор||
-|Согласовать или спроектировать архитектуру решения|Архитектура|[Кирилл Худин\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744]|
-|Помощь в системном анализе, ревью требований, ИПР, собеседования|Системный анализ|[Егор Кочнев\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=864053489]|
-|Запустить / вести проект, неясна маршрутизация|Проектное направление|[Татьяна Нековаль\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1209704584]|
-|Вопросы по производственному процессу, PDLC, delivery|Производственный процесс|[Дарья Борисова\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259]|
-|Gen AI: модели, пайплайны, AI-решения|Gen AI|[Александр Мазур\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259]|
-|AI PDLC: жизненный цикл AI-продуктов|AI PDLC|[Андрей Назаркин\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1229893035]|
+|Согласовать или спроектировать архитектуру решения|Архитектура|[Кирилл Худин|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744]|
+|Помощь в системном анализе, ревью требований, ИПР, собеседования|Системный анализ|[Егор Кочнев|https://sberworks.ru/wiki/pages/viewpage.action?pageId=864053489]|
+|Запустить / вести проект, неясна маршрутизация|Проектное направление|[Татьяна Нековаль|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1209704584]|
+|Вопросы по производственному процессу, PDLC, delivery|Производственный процесс|[Дарья Борисова|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259]|
+|Gen AI: модели, пайплайны, AI-решения|Gen AI|[Александр Мазур|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259]|
+|AI PDLC: жизненный цикл AI-продуктов|AI PDLC|[Андрей Назаркин|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1229893035]|
 
 ----
 
 h2. Кластер: Технологии AI
 
-[Страница кластера\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744]
+[Страница кластера|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744]
 
 ||Команда||Координатор||Статус||Страница||Jira||
-|Архитектура|[Кирилл Худин\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744]|(/) Подтверждён|[Открыть\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744]|{{CC_AI_ARCH_JIRA}}|
-|Системный анализ|[Егор Кочнев\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=864053489]|(/) Подтверждён|[Открыть\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=864053489]|{{CC_AI_SA_JIRA}}|
-|Проектное направление|[Татьяна Нековаль\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1209704584]|(/) Подтверждён|[Открыть\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1209704584]|{{CC_AI_PM_JIRA}}|
-|Производственный процесс|[Дарья Борисова\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259]|(/) Подтверждён|[Открыть\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259]|{{CC_AI_PP_JIRA}}|
-|Gen AI|[Александр Мазур\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259]|(/) Подтверждён|[Открыть\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259]|{{CC_AI_GENAI_JIRA}}|
-|AI PDLC|Андрей Назаркин, Кирилл Сухоносенко (?)|(!) Уточняется|[Открыть\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1229893035]|{{CC_AI_PDLC_JIRA}}|
+|Архитектура|Кирилл Худин|(/) Подтверждён|[Открыть|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744]|{{CC_AI_ARCH_JIRA}}|
+|Системный анализ|Егор Кочнев|(/) Подтверждён|[Открыть|https://sberworks.ru/wiki/pages/viewpage.action?pageId=864053489]|{{CC_AI_SA_JIRA}}|
+|Проектное направление|Татьяна Нековаль|(/) Подтверждён|[Открыть|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1209704584]|{{CC_AI_PM_JIRA}}|
+|Производственный процесс|Дарья Борисова|(/) Подтверждён|[Открыть|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259]|{{CC_AI_PP_JIRA}}|
+|Gen AI|Александр Мазур|(/) Подтверждён|[Открыть|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259]|{{CC_AI_GENAI_JIRA}}|
+|AI PDLC|Андрей Назаркин, Кирилл Сухоносенко (?)|(!) Уточняется|[Открыть|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1229893035]|{{CC_AI_PDLC_JIRA}}|
 
 ----
 
@@ -50,23 +52,21 @@ h2. Пошагово: как обратиться с новым проектом
 h2. Когда обращаться в каждую команду
 
 {expand:title=Архитектура — Кирилл Худин}
-||Поле||Значение||
-|Координатор|[Кирилл Худин\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744]|
-|Ссылки|[Страница команды\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744] · Jira: {{CC_AI_ARCH_JIRA}}|
-|Шаблон задачи|{{CC_AI_ARCH_TEMPLATE}}|
+_Координатор:_ [Кирилл Худин|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744]
+_Ссылки:_ [Страница команды|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1123688744] · Jira: {{CC_AI_ARCH_JIRA}}
+_Шаблон задачи:_ {{CC_AI_ARCH_TEMPLATE}}
 _Обращайтесь, если нужно:_
-- Согласование архитектурного решения
-- Консультации по формированию архитектурного решения
-- Разрешение развилок при проектировании архитектурных решений
-- Консультации по работе / решениям Архитектурной группы и Архитектурного совета
-- Консультации по архитектурному процессу и его изменениям
+* Согласование архитектурного решения
+* Консультации по формированию архитектурного решения
+* Разрешение развилок при проектировании архитектурных решений
+* Консультации по работе / решениям Архитектурной группы и Архитектурного совета
+* Консультации по архитектурному процессу и его изменениям
 {expand}
 
 {expand:title=Системный анализ — Егор Кочнев}
-||Поле||Значение||
-|Координатор|[Егор Кочнев\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=864053489]|
-|Ссылки|[Страница команды\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=864053489] · Jira: {{CC_AI_SA_JIRA}}|
-|Шаблон задачи|{{CC_AI_SA_TEMPLATE}}|
+_Координатор:_ [Егор Кочнев|https://sberworks.ru/wiki/pages/viewpage.action?pageId=864053489]
+_Ссылки:_ [Страница команды|https://sberworks.ru/wiki/pages/viewpage.action?pageId=864053489] · Jira: {{CC_AI_SA_JIRA}}
+_Шаблон задачи:_ {{CC_AI_SA_TEMPLATE}}
 _Обращайтесь, если нужно:_
 * *Проведение собеседований* — техническое интервью, оценка кандидатов, обратная связь нанимающему менеджеру
 * *Ориентация новичков* — освоение производственного процесса, знакомство с сообществом системных аналитиков
@@ -79,34 +79,30 @@ _Обращайтесь, если нужно:_
 {expand}
 
 {expand:title=Проектное направление — Татьяна Нековаль}
-||Поле||Значение||
-|Координатор|[Татьяна Нековаль\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1209704584]|
-|Ссылки|[Страница команды\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1209704584] · Jira: {{CC_AI_PM_JIRA}}|
-|Шаблон задачи|{{CC_AI_PM_TEMPLATE}}|
+_Координатор:_ [Татьяна Нековаль|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1209704584]
+_Ссылки:_ [Страница команды|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1209704584] · Jira: {{CC_AI_PM_JIRA}}
+_Шаблон задачи:_ {{CC_AI_PM_TEMPLATE}}
 _Зона ответственности уточняется на встрече с координатором._
 {expand}
 
 {expand:title=Производственный процесс — Дарья Борисова}
-||Поле||Значение||
-|Координатор|[Дарья Борисова\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259]|
-|Ссылки|[Страница команды\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259] · Jira: {{CC_AI_PP_JIRA}}|
-|Шаблон задачи|{{CC_AI_PP_TEMPLATE}}|
+_Координатор:_ [Дарья Борисова|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259]
+_Ссылки:_ [Страница команды|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259] · Jira: {{CC_AI_PP_JIRA}}
+_Шаблон задачи:_ {{CC_AI_PP_TEMPLATE}}
 _Зона ответственности уточняется на встрече с координатором._
 {expand}
 
 {expand:title=Gen AI — Александр Мазур}
-||Поле||Значение||
-|Координатор|[Александр Мазур\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259]|
-|Ссылки|[Страница команды\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259] · Jira: {{CC_AI_GENAI_JIRA}}|
-|Шаблон задачи|{{CC_AI_GENAI_TEMPLATE}}|
+_Координатор:_ [Александр Мазур|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259]
+_Ссылки:_ [Страница команды|https://sberworks.ru/wiki/pages/viewpage.action?pageId=976168259] · Jira: {{CC_AI_GENAI_JIRA}}
+_Шаблон задачи:_ {{CC_AI_GENAI_TEMPLATE}}
 _Зона ответственности уточняется на встрече с координатором._
 {expand}
 
-{expand:title=AI PDLC — Андрей Назаркин, Кирилл Сухоносенко}
-||Поле||Значение||
-|Координаторы|[Андрей Назаркин\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1229893035], Кирилл Сухоносенко _(требует уточнения)_|
-|Ссылки|[Страница команды\|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1229893035] · Jira: {{CC_AI_PDLC_JIRA}}|
-|Шаблон задачи|{{CC_AI_PDLC_TEMPLATE}}|
+{expand:title=AI PDLC — Андрей Назаркин, Кирилл Сухоносенко (?)}
+_Координаторы:_ [Андрей Назаркин|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1229893035], Кирилл Сухоносенко _(требует уточнения)_
+_Ссылки:_ [Страница команды|https://sberworks.ru/wiki/pages/viewpage.action?pageId=1229893035] · Jira: {{CC_AI_PDLC_JIRA}}
+_Шаблон задачи:_ {{CC_AI_PDLC_TEMPLATE}}
 _Зона ответственности уточняется на встрече с координатором._
 {expand}
 
@@ -121,10 +117,10 @@ h2. Другие кластеры
 ----
 
 {expand:title=Для владельцев страницы — задачи по наполнению}
-(/) *Готово* — Собрать шаблон страницы в Confluence на основе данных кластера «Технологии AI»
-(!) *В работе* — Встретиться со всеми координаторами: разобрать формат постановки задачи в их направление
-(!) *В работе* — Уточнить координаторов AI PDLC (Кирилл Сухоносенко ?) и заполнить остальные кластеры
-(!) *В работе* — Заменить плейсхолдеры Jira и шаблонов на актуальные значения
+{status:colour=Green|title=Готово|subtle=false} Собрать шаблон страницы в Confluence на основе данных кластера «Технологии AI»
+{status:colour=Yellow|title=В работе|subtle=false} Встретиться со всеми координаторами: разобрать формат постановки задачи в их направление
+{status:colour=Yellow|title=В работе|subtle=false} Уточнить координаторов AI PDLC (Кирилл Сухоносенко ?) и заполнить остальные кластеры
+{status:colour=Yellow|title=В работе|subtle=false} Заменить плейсхолдеры Jira и шаблонов на актуальные значения
 {expand}
 
 ----
